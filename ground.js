@@ -3,7 +3,10 @@ class ground
 	constructor(x,y,w,h)
 	{
 		var options={
-			isStatic:true			
+			//isStatic:true	
+			//Static=true
+			//isStatic:false
+			//Static:false
 			}
 		this.x=x;
 		this.y=y;
